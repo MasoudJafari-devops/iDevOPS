@@ -1,20 +1,6 @@
 - 👋 Hi, I’m @iam-MJ
 - 👀 I’m interested in DevOPS
-- 🌱 I’m currently learning: 
-Git
-Yaml
-Nginx
-Docker
-K8S
-GitLab  CI/CD
-Mongodb  Deploy
-Mongo Atlas  Useage 
-PostgreSql
-Minio (Amazon S3) Same Protocol
-AWS  S3 , Eks
-Emails Protocol
-Maven
-
+- 🌱 I’m currently learning: Git | Yaml | Nginx | Docker | K8S | GitLab  CI/CD | Mongodb | Mongo Atlas | PostgreSql | Minio | AWS  S3 , Eks | Emails Protocol | Maven | prometheus
 - 💞️ I’m looking to collaborate on K8S
 - 📫 How to reach me #mmshj  @mmshj  mmshj@outlookcom
 
